@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Matteo Farina",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "teo.farina98@gmail.com",
+    "phone": "(+39)345-9910520",
+    "url": "https://farinamatteo.github.io/",
+    "summary": "Half Italian and Half Czech, unorganized Ph.D. Student who largely enjoys critical thinking.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -47,15 +47,34 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Trento",
+      "location": "Trento, Italy",
+      "url": "https://iecs.unitn.it/",
+      "area": "Artificial Intelligence & Computer Vision",
+      "studyType": "PhD Student",
+      "startDate": "2022-11-01",
+      "endDate": "Ongoing",
+      "score": "10"
+    },
+    {
+      "institution": "University of Trento",
+      "location": "Trento, Italy",
+      "url": "https://www.unitn.it/",
+      "area": "Artificial Intelligence Systems",
+      "studyType": "M.Sc.",
+      "startDate": "2020-09-15",
+      "endDate": "2022-07-22",
+      "score": "110/110 with honors"
+    },
+    {
+      "institution": "University of Trento",
+      "location": "Trento, Italy",
+      "url": "https://www.unitn.it/",
+      "area": "Information Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2017-09-15",
+      "endDate": "2010-07-20",
+      "score": "110/110"
     }
   ],
   "awards": [
@@ -151,13 +170,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
@@ -177,14 +206,25 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Elisa Ricci",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Full Professor @ University of Trento.<br>Contact: e.ricci@unitn.it"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Massimiliano Mancini",
+      "icon": "fa-solid fa-laptop",
+      "reference": "RTD-A @ University of Trento.<br>Contact: massimiliano.mancini@unitn.it"
+    },
+    {
+      "name": "Vladislav Golyanik",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Head of the 4D and Quantum Vision Group @ Max Planck Institut for Informatics, Saarbruecken.<br>Contact: golyanik@mpi-inf.mpg.de"
+    }
+    ,
+    {
+      "name": "Gianni Franchi",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Associate Professor @ ENSTA Paris.<br>Contact: gianni.franchi@ensta-paris.fr"
     }
   ],
   "projects": [
